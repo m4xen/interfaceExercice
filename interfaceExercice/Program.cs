@@ -14,6 +14,7 @@ namespace interfaceExercice
             
             repo.ListCars();
 
+            Console.WriteLine("🤡🔫");
             Console.ReadLine();
         }
     }
